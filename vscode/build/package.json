@@ -43,7 +43,7 @@
     "minimatch": "3.0.4",
     "minimist": "^1.2.3",
     "request": "^2.85.0",
-    "terser": "4.3.8",
+    "terser": "4.8.1",
     "typescript": "^3.9.3",
     "vsce": "1.48.0",
     "vscode-telemetry-extractor": "^1.5.4",
